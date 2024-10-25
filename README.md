@@ -19,7 +19,6 @@ This project implements a credit risk management system designed to evaluate and
 ## Architecture
 The project is built with modular components for data processing, model training, and risk scoring. Jenkins is used to automate the build and deployment processes, ensuring code quality and fast iteration.
 
-##result
 <img src="https://github.com/user-attachments/assets/80e57788-4386-4c80-a3b1-63c804c3f87d" alt="image" width="300"/>
 
 
